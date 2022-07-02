@@ -1,9 +1,9 @@
 export const exerciseOptions = {
     method: 'GET',
-    headers: {
-        'X-RapidAPI-Key': '354123b114msh0e29d5407bcd150p16c842jsnd81d00829ee5',
-        'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com'
-    }
+	headers: {
+		'X-RapidAPI-Key': '354123b114msh0e29d5407bcd150p16c842jsnd81d00829ee5',
+		'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com'
+	}
 };
 
 export const youtubeOptions = {
